@@ -11,10 +11,12 @@ inventore iure aliquid aliquam.
 
 REVIEW 1
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga doloremque architecto dicta animi, totam, itaque officia ex.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Fuga doloremque architecto dicta animi, totam, itaque officia ex.
 
 
 
 REVIEW 2
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga doloremque architecto dicta animi.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Fuga doloremque architecto dicta animi.
